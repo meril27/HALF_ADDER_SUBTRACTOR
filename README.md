@@ -69,4 +69,5 @@ Developed by: MERIL GOLDLINA A RegisterNumber: 24007299
 
 
 **Result:**
+
 Designed half adder and half subtractor circuit are implemented and verified their its truth table in Quartus using Verilog programming.
